@@ -1,6 +1,6 @@
 package mediatheque.beans;
 
-import javax.management.relation.Role;
+import mediatheque.enums.Role;
 
 public class Adherent extends Utilisateur {
 
