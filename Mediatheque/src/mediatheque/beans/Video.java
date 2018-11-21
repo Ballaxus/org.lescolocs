@@ -1,4 +1,4 @@
-package mediatheque;
+package mediatheque.beans;
 
 public class Video {
 
